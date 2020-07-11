@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/New-York-Fashion.ogg-adfd1a1464b9c708fd013499b1a2d881.oggstr"
+
+[deps]
+
+source_file="res://dodge_assets/art/New-York-Fashion.ogg"
+dest_files=[ "res://.import/New-York-Fashion.ogg-adfd1a1464b9c708fd013499b1a2d881.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
